@@ -16,9 +16,9 @@
 - Video Uploader
   - [x] - Deve entender videos em formato MP4 mesmo se não estiverem fragmentados
   - [x] - Deve processar itens em threads isoladas com Web Workers
-  - [ ] - Deve converter fragmentos de videos em formato `144p`
+  - [x] - Deve converter fragmentos de videos em formato `144p`
   - [x] - Deve renderizar frames em tempo real em elemento canvas
-  - [ ] - Deve gerar arquivos WebM a partir de fragmentos
+  - [x] - Deve gerar arquivos WebM a partir de fragmentos
 
 ### Desafios
 - [ ] - Encodar em 360p e 720p
@@ -31,7 +31,7 @@
   - https://github.com/Vanilagy/webm-muxer
   - https://github.com/Vanilagy/mp4-muxer
 
-### Links mostrados nos aulas:
+### Links mostrados nas aulas:
 
 - Reuni todos os links em [referências](./referencias.md)
 
