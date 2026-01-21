@@ -15,6 +15,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tar": "^6.2.0"
+    "tar": "^7.5.4"
   }
 }
